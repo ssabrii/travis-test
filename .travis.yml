@@ -2,9 +2,7 @@ language: node_js
 
 node_js:
   - 'node'
-env:
-  global:
-    - YARN_GPG=no
+
     
 matrix:
   fast_finish: true
